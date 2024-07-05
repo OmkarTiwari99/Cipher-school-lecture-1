@@ -1,0 +1,12 @@
+Primitive Types: 
+int 
+float 
+double 
+char 
+boolean etc.
+
+ Non-Primitive Types: 
+String 
+Array 
+Class objects 
+and various data structures like ArrayList , HashMap , etc.
